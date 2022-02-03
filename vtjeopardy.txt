@@ -1,0 +1,25 @@
+Art,$100,The famous rock band from Vermont,What is Phish?
+Art,$200,These forms of advertisement are illegal,What is a billboard?
+Art,$300,Vermont has the tallest one of these in the world,What is a file cabinet?
+Art,$400,Vermont’s official poet laureate,Who is Robert Frost?
+Art,$500,This building is found nowhere in Vermont,What is a skyscraper?
+Food,$100,Staple dairy product of Vermont that is served with crackers,What is cheddar cheese?
+Food,$200,Vermont is the lead producer of this liquid,What is maple syrup?
+Food,$300,Vermont has the largest one of these in the world,What is a grilled cheese sandwich?
+Food,$400,Vermont has the only state capital that doesn’t have this fast food chain,What is McDonald’s?
+Food,$500,The original startup location of Ben & Jerry’s,What is a gas station?,
+History,$100,The capital of Vermont,What is Montpelier?
+History,$200,The first state to legalize this,What is gay marriage?
+History,$300,Vermont is home to the world’s largest,What is deep hole granite quarry?
+History,$400,The state gem,What is grossular garnet?
+History,$500,This U.S. president was born in Vermont,Who is Calvin Coolidge?
+Animals,$100,The state bird of Vermont,What is Hermit Thrush?
+Animals,$200,Vermont has the greatest ratio in the country of this animal per person,What is a cow?
+Animals,$300,The name of the fabled lake monster,What is Champ?
+Animals,$400,The state animal of Vermont,What is a horse?
+Animals,$500,Ben and Jerry’s gives its waste to pigs who don’t like this flavor,What is mint oreo?
+Recreation,$100,This Vermont ski resort is ranked 11th in the nation,What is Killington?
+Recreation,$200,The headquarters to this popular winter gear and apparel company,What is Burton Snowboards?
+Recreation,$300,Vermont’s highest peak at 4,393 feet,What is Mount Mansfield?
+Recreation,$400,The nation’s first through-hiking trail that is located in Vermont,What is the Long Trail?
+Recreation,$500,The first ever in the world was installed on the slopes in Vermont,What is a rope tow?
